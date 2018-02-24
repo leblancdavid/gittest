@@ -8,7 +8,7 @@ namespace gittest.Tests
         [Fact]
         public void Test1()
         {
-
+            // git status baby!!!
         }
     }
 }
