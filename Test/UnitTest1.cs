@@ -9,6 +9,10 @@ namespace gittest.Tests
         public void Test1()
         {
             // git status baby!!!
+
+            vjlkdfljsl;
+            dsfds1
+            
         }
     }
 }

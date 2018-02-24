@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Dave\\Documents\\Projects\\TestSpace\\gittest\\Domain\\gittest.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Dave\\Documents\\Projects\\TestSpace\\gittest\\Domain\\gittest.Domain.csproj",
       "projectName": "gittest.Domain",
-      "projectPath": "c:\\Users\\Dave\\Documents\\Projects\\TestSpace\\gittest\\Domain\\gittest.Domain.csproj",
+      "projectPath": "C:\\Users\\Dave\\Documents\\Projects\\TestSpace\\gittest\\Domain\\gittest.Domain.csproj",
       "packagesPath": "C:\\Users\\Dave\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Dave\\Documents\\Projects\\TestSpace\\gittest\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Dave\\Documents\\Projects\\TestSpace\\gittest\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
