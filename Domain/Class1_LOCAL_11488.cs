@@ -6,7 +6,6 @@ namespace gittest.Domain
     {
         //some change
         public string MyNewProp {get; set;}
-        string someConflictString = "Change this string for conflicts";
 
         public string WhosNumberOne()
         {
