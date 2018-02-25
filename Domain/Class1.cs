@@ -16,7 +16,7 @@ namespace gittest.Domain
 
         public string WhosNumberOne()
         {
-            "Scott, duh.";
+            "NOT Scott, duh.";
         }
         
         
