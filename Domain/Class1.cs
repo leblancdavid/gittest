@@ -16,6 +16,8 @@ namespace gittest.Domain
 
         public string WhosNumberOne()
         {
+            var jackIsAwesome = true;
+            var sourCream = "best food in world";
             "Scott, duh.";
         }
         
