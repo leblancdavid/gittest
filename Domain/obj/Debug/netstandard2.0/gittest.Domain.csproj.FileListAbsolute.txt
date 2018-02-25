@@ -1,0 +1,8 @@
+C:\Users\Dave\Documents\Projects\TestSpace\gittest\Domain\bin\Debug\netstandard2.0\gittest.Domain.deps.json
+C:\Users\Dave\Documents\Projects\TestSpace\gittest\Domain\bin\Debug\netstandard2.0\gittest.Domain.dll
+C:\Users\Dave\Documents\Projects\TestSpace\gittest\Domain\bin\Debug\netstandard2.0\gittest.Domain.pdb
+C:\Users\Dave\Documents\Projects\TestSpace\gittest\Domain\obj\Debug\netstandard2.0\gittest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Documents\Projects\TestSpace\gittest\Domain\obj\Debug\netstandard2.0\gittest.Domain.AssemblyInfoInputs.cache
+C:\Users\Dave\Documents\Projects\TestSpace\gittest\Domain\obj\Debug\netstandard2.0\gittest.Domain.AssemblyInfo.cs
+C:\Users\Dave\Documents\Projects\TestSpace\gittest\Domain\obj\Debug\netstandard2.0\gittest.Domain.dll
+C:\Users\Dave\Documents\Projects\TestSpace\gittest\Domain\obj\Debug\netstandard2.0\gittest.Domain.pdb
