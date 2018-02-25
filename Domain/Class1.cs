@@ -14,9 +14,11 @@ namespace gittest.Domain
         
         
 
-        public string WhosNumberOne()
+        public string WhosNumberTwo()
         {
             "NOT Scott, duh.";
+            "Dave.";
+            "Scott, duh.";
         }
         
         public string SetValue()
