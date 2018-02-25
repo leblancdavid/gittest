@@ -19,6 +19,9 @@ namespace gittest.Domain
             "NOT Scott, duh.";
         }
         
-        
+        public string SetValue()
+        {
+            return FooBar;
+        }
     }
 }
