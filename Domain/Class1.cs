@@ -8,9 +8,10 @@ namespace gittest.Domain
         public string MyNewProp {get; set;}
         string someConflictString = "Change this string for conflicts";
 
-        public string WhosNumberOne()
+        public string WhosNumberTwo()
         {
-            "Scott, duh.";
+            var x=42;
+            "Dave.";
         }
     }
 }
